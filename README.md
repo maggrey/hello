@@ -1,10 +1,5 @@
 ```html
 
-<html>
-<head>
-<title>Rails Hello World</title>
-</head>
-<body>
 <h1>Rails Hello World</h1>
 
 <p>
@@ -213,7 +208,4 @@ Try adding some more ruby code to index.html.erb
 <li>create a home controller</li>
 <li>gave the home controller some functionality by embedding ruby code</li>
 </ol>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-</body>
-</html>
+```
