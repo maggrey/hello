@@ -1,0 +1,11 @@
+<h1>Hello Utility -- app/views/home/index.html.erb</h1>
+
+Rails.root = <%= Rails.root %>
+
+<h3><%= "Hello! the date is " + `date` %></h3>
+
+<% ary = ["zero", "one", "two", "three"] %>
+
+<% ary.each do |i| %>
+<%= i %> <br>
+<% end %>
